@@ -39,6 +39,15 @@
     margin-left: -4px;
 }
 /*--------------media---------------------*/
+
+.owl-stage-outer{
+    display: flex;
+    justify-content:space-evenly;
+}
+.owl-stage{
+    display: flex;
+    justify-content:space-evenly;
+}
 .owl-carousel .owl-nav.disabled{
     display: block !important;
 }
