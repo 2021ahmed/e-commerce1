@@ -1,8 +1,8 @@
 /*-------------slider1----------------*/
 $(document).ready(function (){
 
-    $(".home-slider").owlCarousel({
-        loop: true,
+    $(".home-slider1").owlCarousel({
+        // loop: true,
         margin: 10,
         nav: true,
         responsive: {
