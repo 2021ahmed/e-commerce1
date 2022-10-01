@@ -41,12 +41,12 @@
 /*--------------media---------------------*/
 
 .owl-stage-outer{
-    display: flex;
-    justify-content:space-evenly;
+    display: flex !important;
+    justify-content:space-evenly !important;
 }
 .owl-stage{
-    display: flex;
-    justify-content:space-evenly;
+    display: flex !important;
+    justify-content:space-evenly !important;
 }
 .owl-carousel .owl-nav.disabled{
     display: block !important;
